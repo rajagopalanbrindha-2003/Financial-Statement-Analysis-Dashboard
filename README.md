@@ -9,6 +9,10 @@ An interactive Financial Statement Analysis Dashboard built using **Power BI** t
 This dashboard provides insights into the financial performance of companies by analyzing key financial statements and ratios. It enables users to compare companies, evaluate profitability, assess liquidity, and understand valuation metrics through interactive visualizations.
 
 ---
+## 🔗 Live Dashboard
+
+**Power BI Report:**  
+https://app.powerbi.com/links/vsG2ZIacEC?ctid=90bc58ad-c8e7-4fbf-8772-5629cf873160&pbi_source=linkShare
 
 ## ✨ Features
 
