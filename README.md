@@ -1,122 +1,68 @@
 # 📊 Financial Statement Analysis Dashboard
 
-## Overview
-
-This project presents an interactive Financial Statement Analysis Dashboard developed using Microsoft Power BI.
-
-The dashboard analyzes financial performance using Balance Sheet, Profit & Loss, Cash Flow, and Financial Ratio datasets.
-
-It helps users evaluate profitability, liquidity, leverage, valuation, and cash flow performance across companies through interactive visualizations.
+An interactive Financial Statement Analysis Dashboard built using **Power BI** to analyze profitability, liquidity, leverage, valuation, and cash flow performance across companies.
 
 ---
 
-## Objectives
+## 📌 Project Overview
 
-- Analyze company financial performance
-- Compare profitability across industries
-- Evaluate liquidity and solvency
-- Study valuation metrics
-- Analyze cash flow performance
-- Create an interactive business intelligence dashboard
+This dashboard provides insights into the financial performance of companies by analyzing key financial statements and ratios. It enables users to compare companies, evaluate profitability, assess liquidity, and understand valuation metrics through interactive visualizations.
 
 ---
 
-## Tools Used
+## ✨ Features
+
+- Executive Dashboard
+- Profitability Analysis
+- Financial Position Analysis
+- Valuation Analysis
+- Interactive Filters & Slicers
+- KPI Cards
+- Financial Ratio Analysis
+
+---
+
+## 🛠 Tools Used
 
 - Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
 - Microsoft Excel
-- Power Query
-- DAX
-- Data Modeling
 
 ---
 
-## Dataset
+# Dashboard Preview
 
-The dashboard is built using:
+## Executive Dashboard
 
-- Balance Sheet
-- Profit & Loss Statement
-- Cash Flow Statement
-- Financial Ratios
+![Executive Dashboard](Images/Executive%20Dashboard.png)
 
 ---
 
-## Dashboard Pages
+## Profitability Dashboard
 
-### Executive Dashboard
-
-- Total Companies
-- Total Revenue
-- Total Net Profit
-- Total Assets
-- Total Liabilities
-- Average ROE
-- Average ROA
-
-### Profitability Dashboard
-
-- Revenue Analysis
-- Net Profit Analysis
-- ROE
-- ROA
-- EBITDA Margin
-
-### Financial Position Dashboard
-
-- Assets vs Liabilities
-- Debt to Equity
-- Current Ratio
-- Working Capital
-
-
-### Valuation Dashboard
-
-- PE Ratio
-- Price to Book
-- EV/EBITDA
-- Market Capitalization
+![Profitability Dashboard](Images/Profitability%20Dashboard.png)
 
 ---
 
-## Skills Demonstrated
+## Financial Position Dashboard
 
-- Financial Statement Analysis
-- Financial Ratio Analysis
-- Data Cleaning
-- Data Modeling
-- DAX
-- Power Query
-- Dashboard Design
-- Business Intelligence
+![Financial Position Dashboard](Images/Financial%20Position%20Dashboard.png)
 
 ---
 
-## Dashboard Preview
+## Valuation Dashboard
 
-### Executive Dashboard
-
-![Executive Dashboard](Images/Executive Dashboard.png)
-
-### Profitability Dashboard
-
-![Profitability Dashboard](Images/Profitability Dashboard.png)
-
-### Financial Position Dashboard
-
-![Financial Position Dashboard](Images/Financial Position Dashboard.png)
-
-### Valuation Dashboard
-
-![Valuation Dashboard](Images/Valuation Dashboard.png)
+![Valuation Dashboard](Images/Valuation%20Dashboard.png)
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **R. Brindha**
 
-PGDM Finance & Human Resource
+PGDM – Finance & Human Resource
 
 Loyola Institute of Business Administration (LIBA)
 
