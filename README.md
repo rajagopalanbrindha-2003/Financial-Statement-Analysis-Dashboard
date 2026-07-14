@@ -69,11 +69,6 @@ The dashboard is built using:
 - Current Ratio
 - Working Capital
 
-### Cash Flow Dashboard
-
-- Operating Cash Flow
-- Investing Cash Flow
-- Financing Cash Flow
 
 ### Valuation Dashboard
 
