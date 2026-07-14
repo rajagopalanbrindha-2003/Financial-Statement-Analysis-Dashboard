@@ -2,16 +2,16 @@
 
 ### Executive Dashboard
 
-![Executive Dashboard](Images/Executive Dashboard.png)
+<img src="Images/Executive Dashboard.png" width="900">
 
 ### Profitability Dashboard
 
-![Profitability Dashboard](Images/Profitability Dashboard.png)
+<img src="Images/Profitability Dashboard.png" width="900">
 
 ### Financial Position Dashboard
 
-![Financial Position Dashboard](Images/Financial Position Dashboard.png)
+<img src="Images/Financial Position Dashboard.png" width="900">
 
 ### Valuation Dashboard
 
-![Valuation Dashboard](Images/Valuation Dashboard.png)
+<img src="Images/Valuation Dashboard.png" width="900">
