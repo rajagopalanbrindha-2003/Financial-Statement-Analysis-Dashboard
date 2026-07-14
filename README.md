@@ -107,7 +107,7 @@ The dashboard is built using:
 
 **R. Brindha**
 
-PGDM Finance & Marketing
+PGDM Finance & Human Resource
 
 Loyola Institute of Business Administration (LIBA)
 
